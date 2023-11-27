@@ -1,0 +1,8 @@
+Using React, create a simple counter component that increments and decrements a count when clicking on respective buttons. 
+Your task is to set up the component, manage the state, and ensure that the count is displayed on the screen
+
+#ADDITONAL TASK 1
+Additionally, implent the functionality so that the count cannot go below zero. 
+
+#ADDITIONAL TASK 2 
+Additionally, implement the functionality so that whenever user hover over button it increment/decrement 
